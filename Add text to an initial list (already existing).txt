@@ -2,16 +2,9 @@ Please create a list of topics for a course on *Power BI*, where each topic is a
 
 [insert list]
 
--------------------------------------------------- -----
-tips:
-Structure classes and subdivisions (one below the other).
-Divide into sections.
-Include initial topics to identify the desired numbering pattern, e.g.:
+##
+Portuguese Version:
 
-Class Section 1
-Lesson 1, Lesson 1.2
-Class Section 2:
-Class 2, Class 2.1
-and so on.
+Por favor, crie uma lista de tópicos para um curso sobre *Power BI*, onde cada tópico é uma aula numerada e suas subdivisões são indicadas por números decimais. Os tópicos devem seguir o formato 'Aula X', 'Aula X.Y', onde X é o número da aula principal e Y é o número da subdivisão. Aqui está a lista inicial:
 
-Note: it is not necessary to put class section 1, class section 2 at the beginning.
+[inserir lista]
