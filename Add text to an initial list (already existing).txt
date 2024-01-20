@@ -1,0 +1,17 @@
+Please create a list of topics for a course on *Power BI*, where each topic is a numbered lesson and its subdivisions are indicated by decimal numbers. Topics must follow the format 'Class X', 'Class X.Y', where X is the main class number and Y is the subdivision number. Here is the initial list:
+
+[insert list]
+
+-------------------------------------------------- -----
+tips:
+Structure classes and subdivisions (one below the other).
+Divide into sections.
+Include initial topics to identify the desired numbering pattern, e.g.:
+
+Class Section 1
+Lesson 1, Lesson 1.2
+Class Section 2:
+Class 2, Class 2.1
+and so on.
+
+Note: it is not necessary to put class section 1, class section 2 at the beginning.
